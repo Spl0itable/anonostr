@@ -13,7 +13,7 @@
 - **Relay Hop**: Adds obfuscation by spreading notes across different relays randomly.
 - **Tor Relays**: Supports using onion service relays.
 - **Tagging**: Supports hashtags and mentions within notes.
-- **Progressive Web App (PWA)**: Installable on mobile and desktop, with offline capabilities.
+- **Progressive Web App (PWA)**: Installable on mobile and desktop.
 
 ## Usage
 1. **Enter Your Note**: Write your note in the text area provided. You can mention other users or notes using [NIP-19](https://github.com/nostr-protocol/nips/blob/master/19.md) compatible identifiers such as `@npub...`, `@note...`, or `@nprofile...`.
